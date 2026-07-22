@@ -6,6 +6,8 @@ I build complete technical systems that bring together **embedded hardware, edge
 
 My work focuses on turning research ideas into dependable, deployable solutions—from integrating wearable and environmental sensors to building firmware, connected devices, edge services, data pipelines, analytics platforms and operational interfaces.
 
+Public repositories on this profile are experimental.
+
 [![Nexus N3](https://img.shields.io/badge/Nexus%20N3-6A1B9A?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Nexus-N3)
 [![RightStep Health](https://img.shields.io/badge/RightStep%20Health-C62828?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/RightStep-Health)
 
