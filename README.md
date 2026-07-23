@@ -4,7 +4,7 @@ I am an engineer and technical leader working at the intersection of **embedded 
 
 I build complete technical systems that bring together **embedded hardware, edge computing and AI, communications, analytics and user interfaces**.
 
-My work focuses on turning research ideas into dependable, deployable solutions—from integrating wearable and environmental sensors to building firmware, connected devices, edge services, data pipelines, analytics platforms and operational interfaces.
+My work focuses on turning research ideas into dependable, deployable solutions, from integrating wearable and environmental sensors to building firmware, connected devices, edge services, data pipelines, analytics platforms and operational interfaces.
 
 Public repositories on this profile are experimental.
 
